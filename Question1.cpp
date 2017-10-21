@@ -12,4 +12,5 @@ int main()
 	cout<<"the size of float is "<<sizeof(c)<<" and the size of float pointer is "<<sizeof(pc)<<endl;
 	cout<<"the size of bool is "<<sizeof(d)<<" and the size of bool pointer is "<<sizeof(pd)<<endl;
 	cout<<"the size of char is "<<sizeof(e)<<" and the size of char pointer is "<<sizeof(pe)<<endl;
+	return 0;
 }
