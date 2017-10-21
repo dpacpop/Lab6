@@ -13,4 +13,5 @@ int main()
 	cout<<"printing using pointer method.\n";
 	for(i=0;i<10;i++)
 	cout<<*(point+i)<<endl;
+	return 0;
 }
