@@ -11,4 +11,5 @@ int main()
 	cout<<"a= "<<a<<"\nb= "<<b<<"\n*p= "<<*p<<endl;
 	p=&b;
 	cout<<"a= "<<a<<"\nb= "<<b<<"\n*p= "<<*p<<endl;
+	return 0;
 }
