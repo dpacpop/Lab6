@@ -11,7 +11,7 @@ void Strcpy(char str[],char str1[])
 }
 int main(void)
 {
-    char str[100], *p;
+    char str[100],;
     cout << "enter a string(max 100 characters.)\n";
     cin >> str;
     char str1[100];
