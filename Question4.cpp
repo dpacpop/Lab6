@@ -12,6 +12,7 @@ int main()
 	for(i=0;i<size;i++)
 	cout<<str[i];
 	cout<<"\nprinting the string using pointer.\n";
-	cout<<point;
+	for(i=0;i<size;i++)
+	cout<<*(point+i);
 	return 0;
 }
