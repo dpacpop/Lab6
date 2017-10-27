@@ -5,7 +5,7 @@ using namespace std;
 int main(void)
 {
     char str[20], *p;
-    cout << "Input about 10 characters of string\n";
+    cout << "Input 10 characters in the string\n";
     cin >> str;
     p=str;
     int i;
