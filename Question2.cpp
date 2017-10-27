@@ -6,6 +6,9 @@ int main()
 	int* p;
 	p=&a;
 	b=*p;
+	cout<<"enter the values of a & b.\n";
+	cin>>a>>b;
+	cout<<"a= "<<a<<"\nb= "<<b<<"\n*p= "<<*p<<endl;
 	a=2;
 	b=3;
 	cout<<"a= "<<a<<"\nb= "<<b<<"\n*p= "<<*p<<endl;
