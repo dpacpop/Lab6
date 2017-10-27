@@ -10,7 +10,7 @@ int Strchr(char str[],char c)
 	    i++;
 	    if(str[i]=='\0')
 	    return -1;
-	    return i;
+	    return i+1;
 }
 int main(void)
 {
